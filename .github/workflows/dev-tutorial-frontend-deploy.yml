@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
 
 env:
-  REPOSITORY: "Akanjan/nana-tutorial-frontend"
+  REPOSITORY: "Akanjana/nana-tutorial-frontend"
   APP_NAME: nana-tutorial-frontend
-  AZURE_WEB_APP_NAME: app-nana-tutorial-frontend-dev-001
+  AZURE_WEB_APP_NAME: app-nana-tutorial-fronend-dev-001
   CONTAINER_REPOSITORY: "acrteachertutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
