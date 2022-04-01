@@ -12,7 +12,7 @@ env:
   CONTAINER_REPOSITORY: "acrteachertutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
- jobs:
+jobs:
   build-and-deploy-app-service:
     name: Build and Deploy
     runs-on: ubuntu-latest
